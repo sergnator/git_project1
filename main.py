@@ -1,5 +1,5 @@
 def main():
-    print('Моя первая программа')
+    print('My first git-project1')
 
 
 if __name__ == '__main__':
